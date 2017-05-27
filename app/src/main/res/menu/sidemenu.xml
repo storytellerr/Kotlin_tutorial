@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+    android:title="first fragment"
+    android:id="@+id/first"
+    android:icon="@drawable/ic_first"/>
+
+    <item
+        android:title="last fragment"
+        android:id="@+id/last"
+        android:icon="@drawable/ic_last"/>
+
+    <item android:title="Others">
+                <menu>
+                    <item
+                       android:title="third variable"
+                       android:icon="@drawable/ic_age"/>
+                        
+                    <item android:title="fourth variable"
+                          android:icon="@drawable/ic_sex"/>
+                     
+                </menu>
+            </item>
+     
+        <group android:id="@+id/group_settings_id">
+     
+            <item android:title="Settings"
+                  android:icon="@drawable/ic_settings"/>
+            <item android:title="About me"
+                  android:icon="@drawable/ic_help"/>
+        </group>
+
+</menu>
