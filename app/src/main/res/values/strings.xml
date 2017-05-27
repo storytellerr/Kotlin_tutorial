@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Kotlin_tutorial</string>
+    <string name="app_name">Kotlin tutorial</string>
     <string name="title_activity_main">MainActivity</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
