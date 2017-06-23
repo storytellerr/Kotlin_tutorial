@@ -6,8 +6,6 @@
     android:fitsSystemWindows="true"
     android:orientation="vertical">
 
-
-
     <android.support.v7.widget.Toolbar
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
@@ -41,7 +39,6 @@
             app:itemTextColor="@color/black"
             app:headerLayout="@layout/drawerimage"
             app:menu="@menu/sidemenu"
-
             />
 
 
