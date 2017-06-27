@@ -1,5 +1,6 @@
 package com.example.shashank.kotlin_tutorial;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.FragmentManager;
@@ -49,15 +50,19 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 if (menuItem.getItemId() == R.id.first) {
-                    FragmentTransaction xfragmentTransaction = mFragmentManager.beginTransaction();
-                    xfragmentTransaction.replace(R.id.containerView,new FirstFragment()).commit();
+                    FragmentTransaction fragmentTransaction = mFragmentManager.beginTransaction();
+                    fragmentTransaction.replace(R.id.containerView,new FirstFragment()).commit();
                 }
                 if (menuItem.getItemId()==R.id.last)
                 {
-                    FragmentTransaction xfragmentTransaction =mFragmentManager.beginTransaction();
-                    xfragmentTransaction.replace(R.id.containerView,new LastFragment()).commit();
+                    FragmentTransaction fragmentTransaction =mFragmentManager.beginTransaction();
+                    fragmentTransaction.replace(R.id.containerView,new LastFragment()).commit();
                 }
 
+                if(menuItem.getItemId()==R.id.test)
+                {
+                    startActivity(new Intent(MainActivity.this,Testsec.class));
+                }
 
 
                 return false;

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "190795472459",
+    "firebase_url": "https://kotlintutorials-285bd.firebaseio.com",
+    "project_id": "kotlintutorials-285bd",
+    "storage_bucket": "kotlintutorials-285bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190795472459:android:418fd125f8eacdbb",
+        "android_client_info": {
+          "package_name": "com.example.shashank.kotlin_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190795472459-9ljqs804u6t6l6g5oimn57ehn06mu11f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQQfe87zySvsowZgEbpTtCdX60WeXE4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

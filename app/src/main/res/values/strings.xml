@@ -1,12 +1,96 @@
 <resources>
     <string name="app_name">Kotlin tutorial</string>
     <string name="title_activity_main">MainActivity</string>
-
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-
     <string name="action_settings">Settings</string>
-
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="card0">
+        <item>card01</item>
+        <item>card02</item>
+        <item>card03</item>
+        <item>card04</item>
+        <item>card05</item>
+    </string-array>
+    <string-array name="card1">
+        <item>card11</item>
+        <item>card12</item>
+        <item>card13</item>
+        <item>card14</item>
+        <item>card15</item>
+    </string-array>
+    <string-array name="card2">
+        <item>card21</item>
+        <item>card22</item>
+        <item>card23</item>
+        <item>card24</item>
+        <item>card25</item>
+    </string-array>
+    <string-array name="card3">
+        <item>card31</item>
+        <item>card32</item>
+        <item>card33</item>
+        <item>card34</item>
+        <item>card35</item>
+    </string-array>
+    <string-array name="card4">
+        <item>card41</item>
+        <item>card42</item>
+        <item>card43</item>
+        <item>card44</item>
+        <item>card45</item>
+    </string-array>
+    <string-array name="card5">
+        <item>card51</item>
+        <item>card52</item>
+        <item>card53</item>
+        <item>card54</item>
+        <item>card55</item>
+    </string-array>
+    <string-array name="card6">
+        <item>card61</item>
+        <item>card62</item>
+        <item>card63</item>
+        <item>card64</item>
+        <item>card65</item>
+    </string-array>
+    <string-array name="card7">
+        <item>card71</item>
+        <item>card72</item>
+        <item>card73</item>
+        <item>card74</item>
+        <item>card75</item>
+    </string-array>
+    <string-array name="card8">
+        <item>card81</item>
+        <item>card82</item>
+        <item>card83</item>
+        <item>card84</item>
+        <item>card85</item>
+    </string-array>
+    <string-array name="card9">
+        <item>card91</item>
+        <item>card92</item>
+        <item>card93</item>
+        <item>card94</item>
+        <item>card95</item>
+    </string-array>
+    <string-array name="examarr">
+        <item>example1</item>
+        <item>example2</item>
+        <item>example3</item>
+        <item>example4</item>
+        <item>example5</item>
+        <item>example6</item>
+        <item>example7</item>
+        <item>example8</item>
+        <item>example9</item>
+        <item>example10</item>
+        <item>example11</item>
+        <item>example12</item>
+        <item>example13</item>
+        <item>example14</item>
+        <item>example15</item>
+    </string-array>
+
+
 </resources>

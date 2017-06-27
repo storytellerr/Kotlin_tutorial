@@ -19,6 +19,7 @@
                 <menu>
                     <item
                        android:title="third variable"
+                        android:id="@+id/test"
                        android:icon="@drawable/ic_age"/>
                         
                     <item android:title="fourth variable"
